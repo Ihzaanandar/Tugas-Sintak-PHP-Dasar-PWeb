@@ -35,7 +35,3 @@
     
 </body>
 </html>
-<!-- // echo "Menggunakan var_dump <br>"; 
-// echo "$a != $b : "; var_dump($a != $b);
-// echo "Menggunakan var_dump <br>";
-// echo "$a == $b : "; var_dump($a == $b); -->
